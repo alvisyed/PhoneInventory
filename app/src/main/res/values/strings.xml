@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhoneInventory</string>
+    <string name="iphone_inventory_v2_0">iPhone Inventory v2.0</string>
+    <string name="manage_inventory">Manage Inventory</string>
+    <string name="confirm">Confirm</string>
+    <string name="model">Model</string>
+    <string name="price">Price</string>
+    <string name="year">Year</string>
+</resources>
